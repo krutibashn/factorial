@@ -17,6 +17,7 @@ def sum_factorial():
     result=sum(final_list)
     #print("Final SUM = {}".format(result))
     print(f"Final SUM is = : {result}")
+    print("Hello World")
     return result
 
 if __name__ == "__main__":
